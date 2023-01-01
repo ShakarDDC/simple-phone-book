@@ -1,0 +1,88 @@
+﻿Name: Yerkebulan.
+MiddleName: Zhaiylkan.
+LastName: Zhaiylkanuly.
+phone: 87775439876.
+Address: Zhandosova 65,34, Almaty, Kazakhstan.
+Gender: Male.
+File: images\IMG_20190301_134108.jpg|
+##################################################
+Name: Zhandos.
+MiddleName: Akhmetov.
+LastName: Aidaruly.
+phone: 87577774455.
+Address: Otegen-batyr 45, QyzylOrda, Kazakhstan.
+Gender: Male.
+File: images\joker-2-1554360880.jpg|
+##################################################
+Name: Marzhan.
+MiddleName: .
+LastName: Didarova.
+phone: 87757759876.
+Address: Zheltoqsan 95, Almaty, Kazakhstan.
+Gender: Female.
+File: images\thumb-121079.jpg|
+##################################################
+Name: shakar.
+MiddleName: nawshirwan.
+LastName: hama karim.
+phone: 00964770864024.
+Address: shirwan20002@gmail.com .
+Gender: Male.
+File: images\111.JPG|
+##################################################
+Name: nawshirwan.
+MiddleName: hama karim.
+LastName: wali.
+phone: 009647701582061.
+Address: sulaimanyah, Iraq, Azadi.
+Gender: Male.
+File: The file does not exist|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: karrar.
+MiddleName: talib.
+LastName: abid.
+phone: 07733837446.
+Address: baghdad.
+Gender: Male.
+File: images\121198770_3385099321715528_5742736812713842006_n.jpg|
+##################################################
+Name: muhammed.
+MiddleName: ibrahim.
+LastName: aziz.
+phone: 00701123344.
+Address: slemani , azadi ,kurdistan.
+Gender: Male.
+File: The file does not exist|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: eee.
+MiddleName: eee.
+LastName: eeee.
+phone: ff2233.
+Address: asdfghb.
+Gender: Male.
+File: The file does not exist|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: f.
+MiddleName: lk.
+LastName: lk.
+phone: kk.
+Address: kk.
+Gender: .
+File: The file does not exist|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Shakar.
+MiddleName: Nawshirwan.
+LastName: Hama-Karim.
+phone: 07708648024.
+Address: sulaimanyah,Kurdistan-Iraq.
+Gender: Male.
+File: images\photo_2021-04-09_14-08-28.jpg|
+##################################################
+Name: Shakar.
+MiddleName: Nawshirwan.
+LastName: Hama-Karim.
+phone: 07708648024.
+Address: sulaymaniyah, Kurdistan-Iraq.
+Gender: Male.
+File: images\photo_2021-04-09_14-08-28.jpg|
+##################################################

@@ -1,0 +1,84 @@
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.exe
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.deps.json
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.json
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.dev.json
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csprojAssemblyReference.cache
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.addContact.resources
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Form1.resources
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.showContact.resources
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.GenerateResource.cache
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfoInputs.cache
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfo.cs
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.genruntimeconfig.cache
+C:\Users\yerkk\source\repos\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Properties.Resources.resources
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.exe
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.deps.json
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.json
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.addContact.resources
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Form1.resources
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Properties.Resources.resources
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.showContact.resources
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\Desktop\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.exe
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.deps.json
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.json
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.addContact.resources
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Form1.resources
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Properties.Resources.resources
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.showContact.resources
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\ref\Project-4_Miracle.dll
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\Desktop\project04\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.deps.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\bin\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.addContact.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project_4_Miracle.showContact.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\refint\Project-4_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\Project-4_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-4_Miracle\Project-4_Miracle\obj\Debug\net5.0-windows\ref\Project-4_Miracle.dll
